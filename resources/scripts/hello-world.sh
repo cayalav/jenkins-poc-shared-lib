@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Hello $1. Today is $2. - helloWorld
+echo Hello $1. Project name is $2. - helloWorld
